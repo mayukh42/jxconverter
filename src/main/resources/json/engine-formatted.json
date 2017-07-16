@@ -1,0 +1,29 @@
+{
+  "class": "org.mayukh.footprint.model.auto.Engine",
+  "fields": [
+    {
+      "variable": "displacement",
+      "type": "java.lang.Double",
+      "value": "1498.0",
+      "description": "units in cc"
+    },
+    {
+      "variable": "torq",
+      "type": "java.lang.Double",
+      "value": "250.0",
+      "description": "units in Nm"
+    },
+    {
+      "variable": "power",
+      "type": "java.lang.Double",
+      "value": "110.0",
+      "description": "units in HP"
+    },
+    {
+      "variable": "fuelEff",
+      "type": "java.lang.Double",
+      "value": "17.5",
+      "description": "units in Kmpl"
+    }
+  ]
+}

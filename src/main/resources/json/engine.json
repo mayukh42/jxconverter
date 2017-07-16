@@ -1,0 +1,1 @@
+{"class": "org.mayukh.footprint.model.auto.Engine", "fields": [{"variable": "displacement","type": "java.lang.Double","value": "1498.0"},{"variable": "torq","type": "java.lang.Double","value": "250.0"},{"variable": "power","type": "java.lang.Double","value": "110.0"},{"variable": "fuelEff","type": "java.lang.Double","value": "17.5"}]}
